@@ -1,0 +1,10 @@
+Check filetype
+Check for keywords
+Choose directory based on filetype/keyword
+Copies/send files from collective 'download' folder to specified folders
+
+Keywords: listed in program? Reference separate .txt file? 
+Program will remember specified folders
+Program will use Window's own file transfer system
+Program can 'sniff out' folders based on name
+Program can send files/folders to specified folders
