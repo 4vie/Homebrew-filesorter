@@ -6,5 +6,7 @@ Copies/send files from collective 'download' folder to specified folders
 Keywords: listed in program? Reference separate .txt file? 
 Program will remember specified folders
 Program will use Window's own file transfer system
-Program can 'sniff out' folders based on name
+Program can 'sniff out' folders based on name (picture a conventional 'search' for an inputed keyword
 Program can send files/folders to specified folders
+Program can recognize new keywords
+Program can recognize changes to the keywords
